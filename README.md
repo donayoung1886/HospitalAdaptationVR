@@ -1,4 +1,4 @@
-# HospitalVR
+# Hospital Adaptation using Real-time Position Tracking and Panoramic View Interpolation
 
 실시간 위치 트래킹과 파노라마 시점보간을 이용한 병동 적응 VR 프로그램
 
