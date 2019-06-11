@@ -1,0 +1,5 @@
+sceneSetups:
+- path: Assets/Assets_do/Scenes/5-1_Play.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
